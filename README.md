@@ -1,0 +1,2 @@
+# NFL-Predictions
+NFL is one of the most followed game having millions of followers all around the world.The current work involves the prediction of NFL match results by using a custom model incorporating a deep neural network and ticket prices for the match using regression modelling. This work considers the most important factor in NFL, the momentum. The prediction model has the capability to get better accuracy than previous models reported. All predictions are made for Week 17 by learning from Week 1 –16’s data.
